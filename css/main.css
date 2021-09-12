@@ -230,6 +230,7 @@ body {
 }
 
 .on-chap {
+   top: 40%;
    transition: all 0.4s ease;
 }
 
