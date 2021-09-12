@@ -245,7 +245,7 @@ body {
 
 .pro-img {
    position: absolute;
-   top: 0px;
+   top: 0;
    left: 0;
    width: 506px;
    transition: transform 1s ease;
